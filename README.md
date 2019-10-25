@@ -11,7 +11,7 @@ Run "pip install -r requirements.txt". Then go to under api or web path and run 
 
 ### For More
 
-https://splinter.readthedocs.io/en/latest/
-https://behave.readthedocs.io/en/latest/
-https://pypi.org/project/requests/2.7.0/
-https://pypi.org/project/simplejson/
+- https://splinter.readthedocs.io/en/latest/
+- https://behave.readthedocs.io/en/latest/
+- https://pypi.org/project/requests/2.7.0/
+- https://pypi.org/project/simplejson/
