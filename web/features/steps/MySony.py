@@ -2,6 +2,13 @@ from splinter.browser import Browser
 from behave import *
 
 browser = Browser('chrome')
+
+"""   Selenium Grid Config
+browser = Browser(driver_name="remote",
+                  url='http://127.0.0.1:4444/wd/hub',
+                  browser='chrome')
+"""
+
 mySony = 'https://www.sony.co.uk/mysony'
 
 
