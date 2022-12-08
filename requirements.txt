@@ -1,5 +1,5 @@
 behave==1.2.6
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.8
 parse==1.12.1
